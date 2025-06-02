@@ -1,0 +1,25 @@
+{
+    "logo": "images\/logo.png",
+    "menu": [
+        {
+            "title": "\u0413\u043b\u0430\u0432\u043d\u0430\u044f",
+            "url": "index.php"
+        },
+        {
+            "title": "\u041e \u0446\u0435\u043d\u0442\u0440\u0435",
+            "url": "about.php"
+        },
+        {
+            "title": "\u041f\u0443\u0431\u043b\u0438\u043a\u0430\u0446\u0438\u0438",
+            "url": "publications.php"
+        },
+        {
+            "title": "\u041d\u043e\u0432\u043e\u0441\u0442\u0438",
+            "url": "news.php"
+        },
+        {
+            "title": "\u041a\u043e\u043d\u0442\u0430\u043a\u0442\u044b",
+            "url": "contacts.php"
+        }
+    ]
+}

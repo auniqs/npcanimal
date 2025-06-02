@@ -1,0 +1,21 @@
+{
+    "copyright": "\u00a9 2025 \u041d\u0430\u0443\u0447\u043d\u043e-\u041f\u0440\u0430\u043a\u0442\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0426\u0435\u043d\u0442\u0440",
+    "contacts": {
+        "address": "\u0433. \u0416\u043e\u0434\u0438\u043d\u043e, \u0443\u043b. \u0424\u0440\u0443\u043d\u0437\u0435, 11",
+        "phone": "+375 (17) 753-87-83"
+    },
+    "social": [
+        {
+            "icon": "bi-facebook",
+            "url": "https:\/\/www.facebook.com\/belagromechby\/?locale=ru_RU#"
+        },
+        {
+            "icon": "bi-instagram",
+            "url": "https:\/\/www.instagram.com\/npc.prod\/"
+        },
+        {
+            "icon": "bi-telegram",
+            "url": "https:\/\/t.me\/s\/nanbelarus"
+        }
+    ]
+}
